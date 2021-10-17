@@ -1,0 +1,10 @@
+h1 {
+  color: red;
+  font-family: Georgia, 'Times New Roman';
+}
+p {
+  text-align: center;
+  font-style: italic;
+  font-weight: 100;
+  line-height: 30px;
+}
