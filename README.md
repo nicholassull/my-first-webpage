@@ -28,4 +28,4 @@ _This website showcases my beginner-level understanding of HTML.
 
 _Feel free to contact me at nicholassull@gmail.com with any questions, comments, and concerns regarding this webpage._
 
-Copyright (c) _October 16, 2021_ _Nick Sullivan_
+Copyright (c) _October 16, 2021_ _Nick Sullivan_ _Wajma Niazi_ _Brit Wallace_ _Erin McCully
